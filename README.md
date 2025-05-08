@@ -1,3 +1,3 @@
-Blinkit-Grocery-Sales-Data-Analysis (Interactive Dashboard creation using Power BI)
+#Blinkit-Grocery-Sales-Data-Analysis (Interactive Dashboard creation using Power BI)
 ##Project Overview
 The Blinkit Grocery Sales Dashboard, built using Power BI, offers a comprehensive visual analysis of grocery sales performance. It includes key metrics such as total sales, profit, and quantity sold across various product categories and states. Interactive slicers and filters allow users to drill down into specific time periods, categories, or regions. Key visualizations include bar charts for top-selling items, pie charts for category-wise revenue distribution, and line graphs for monthly sales trends. The dashboard is designed to provide clear insights into business performance, helping stakeholders make informed decisions and identify high-performing products and markets.
