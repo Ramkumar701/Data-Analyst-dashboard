@@ -29,9 +29,9 @@ It features interactive charts for category-wise performance and regional insigh
 
 - what is the average order value?
 
+## Dashboard interaction
 
-
-- ## Dashboard interaction- <a href="https://github.com/Ramkumar701/Data-Analyst-dashboard/blob/main/Blinkit%20Grocery%20Dashboard%20power%20bi.pdf">View Dashboard</a>
+-  <a href="https://github.com/Ramkumar701/Data-Analyst-dashboard/blob/main/Blinkit%20Grocery%20Dashboard%20power%20bi.pdf">View Dashboard</a>
 
 ## Project Insights:
 
